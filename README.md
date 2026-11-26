@@ -2,7 +2,7 @@
 
 Code for the analyses in:
 
-> Szcześniak MW, Wanowska E. Transposable elements supply evolutionarily labile parts to human lncRNA genes with little evidence of purifying selection. Manuscript submitted.
+> Szcześniak MW, Bocheńska M, Wanowska E. Transposable elements supply evolutionarily labile parts to human lncRNA genes with little evidence of purifying selection. Manuscript submitted.
 
 The pipeline compares human population variation (gnomAD v4.1) and evolutionary conservation (phyloP, 447 mammals and the primate subset) between exonic and intronic copies of transposable elements (TEs) in human lncRNA genes, within the same genes and against repeat-free sequence of those genes. It also covers positive controls, planted-constraint (spike-in) tests, TE-derived splice sites and their age, and LTR elements at lncRNA transcription starts.
 
