@@ -1,0 +1,15 @@
+pipeline/local.sh
+data
+data/
+work/
+results/
+logs/
+__pycache__/
+*.pyc
+*.png
+*.pdf
+*.svg
+*.jpg
+*.tar.gz
+*.tgz
+*.log

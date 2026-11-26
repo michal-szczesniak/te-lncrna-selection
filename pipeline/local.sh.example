@@ -1,0 +1,5 @@
+# Copy to pipeline/local.sh and edit. Sourced by pipeline/config.sh; not tracked by git.
+# Leave CONDA_SH empty if the environment is already active.
+CONDA_SH=/path/to/miniforge3/etc/profile.d/conda.sh
+CONDA_ENV=/path/to/envs/te-lncrna
+# RNA_PROPS=/path/to/gene_properties_controls_v29.tsv.gz   # default: data/gene_properties_controls_v29.tsv.gz
