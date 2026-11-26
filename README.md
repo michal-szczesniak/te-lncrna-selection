@@ -6,7 +6,7 @@ Code for the analyses in:
 
 The pipeline compares human population variation (gnomAD v4.1) and evolutionary conservation (phyloP, 447 mammals and the primate subset) between exonic and intronic copies of transposable elements (TEs) in human lncRNA genes, within the same genes and against repeat-free sequence of those genes. It also covers positive controls, planted-constraint (spike-in) tests, TE-derived splice sites and their age, and LTR elements at lncRNA transcription starts.
 
-Intermediate tables and results are deposited at Zenodo: [Zenodo DOI].
+Intermediate tables and results are deposited at Zenodo: https://doi.org/10.5281/zenodo.24560064 (all versions; version 1.0, with the code at commit 5b30018: https://doi.org/10.5281/zenodo.24560065).
 
 ## Contents
 
